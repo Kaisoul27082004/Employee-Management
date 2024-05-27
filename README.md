@@ -54,11 +54,13 @@ Choose the appropriate role and follow the prompts for login and subsequent acti
 >for testing purpose password for Manager are set to "123".
 ### Manager Login
 Username: admin
+
 Password: 123
 
 >for testing purpose passwords for Employee are set to "1".
 ### Employee Login
 Username: ID (Note: The ID number is a number given to employees by Manager, meaning it must exist to log in)
+
 Password: 1 (All employees use this password for simplicity)
 
 At Manager Menu
