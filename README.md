@@ -67,6 +67,9 @@ Note: There is a sample data that I created for testing purpose with file name: 
 
 ## Contact
 For any questions or issues, please contact the project maintainer at 
+https://github.com/Kaisoul27082004/Employee-Management.git
+https://github.com/thanhcuong278/Employee_Management.git
+
 
 
 
