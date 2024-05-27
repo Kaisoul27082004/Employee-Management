@@ -31,7 +31,9 @@ Load Data from CSV: Import employee data from a CSV file.
 
 ### Employee Functions
 Login: Secure login for employees.
+
 View Personal Information: View individual employee details.
+
 Update Personal Information: Update their own details.
 
 ## Usage
